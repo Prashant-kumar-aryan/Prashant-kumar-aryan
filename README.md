@@ -12,14 +12,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashnat-kumar-aryan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-view" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://shraddha-gawde.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio]()
 
 - 💬 Ask me about **JavaScript** **Node.js** **html-css** **JavaScript**
 
-- 📫 How to reach me **shraddha.gawde1999@gmail.com**
-- 🔗 Connect with me: <a href="twitter.com/ShraddhaGawde5" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="30" width="30" /></a><a href="https://www.linkedin.com/in/shraddha-gawde/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="shraddha-gawde" alt="https://www.linkedin.com/in/shraddha-gawde/" height="30" width="30" /></a>
+- 📫 How to reach me **prashantkr2698@gmail.com**
+- 🔗 Connect with me: <a href="twitter.com/@prashant_kumar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="30" width="30" /></a><a href="https://www.linkedin.com/in/prashant-kumar-aryan-517b4a25a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="prashant-kumar" alt="[https://www.linkedin.com/in/Prashant-kumar-aryan/](https://www.linkedin.com/in/prashant-kumar-aryan-517b4a25a/)" height="30" width="30" /></a>
 
-- 📄 Know about my experiences [Click Here](https://test-resume.masaischool.com/resume?resumeId=65a10a78ed1721a6dcf1a929&selectedTemplate=ClassicProfessional)
+- 📄 Know about my experiences [Click Here]()
 
 
 <br/><br/>
@@ -77,11 +77,11 @@
 
 </div>
 <br/><br/>
-<p><img align="center" width="1500px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shraddha-gawde&theme=dark&show_icons=true&locale=en&layout=compact&card_width=495" alt="shraddha-gawde" /></p>
+<p><img align="center" width="1500px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-kumar-aryan&theme=dark&show_icons=true&locale=en&layout=compact&card_width=495" alt="Prashant-kumar" /></p>
 
-<p>&nbsp;<img align="center" width="1500px" height="180px" src="https://github-readme-stats.vercel.app/api?username=shraddha-gawde&theme=dark&show_icons=true&locale=en&card_width=495" alt="shraddha-gawde"/></p>
+<p>&nbsp;<img align="center" width="1500px" height="180px" src="https://github-readme-stats.vercel.app/api?username=Prashant-kumar-aryan&theme=dark&show_icons=true&locale=en&card_width=495" alt="Prashant-kumar-aryan"/></p>
 <br/>
-<p><img align="center" width="1500px" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha-gawde&theme=dark&card_width=495" alt="shraddha-gawde" /></p>
+<p><img align="center" width="1500px" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-kumar-aryan&theme=dark&card_width=495" alt="Prashant-kumar-aryan" /></p>
 <h3>🏆 GitHub Trophies</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Prashant-kumar-aryan&theme=radical&no-frame=false&no-bg=true&margin-w=4&align=center" alt="GitHub Profile Trophy">
