@@ -84,5 +84,5 @@
 <p><img align="center" width="1500px" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha-gawde&theme=dark&card_width=495" alt="shraddha-gawde" /></p>
 <h3>🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shraddha-gawde&theme=radical&no-frame=false&no-bg=true&margin-w=4&align=center" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prashant-kumar-aryan&theme=radical&no-frame=false&no-bg=true&margin-w=4&align=center" alt="GitHub Profile Trophy">
 </p>
