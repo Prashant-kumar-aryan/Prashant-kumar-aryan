@@ -57,9 +57,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="80" height="50"/>
   </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://media0.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif" alt="java" width="100" height="100"/>
-  </a>
+ <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="C++" width="100" height="100"/>
+</a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="bootstrap" width="100" height="100"/>
   </a>
