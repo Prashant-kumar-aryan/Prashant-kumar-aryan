@@ -9,7 +9,7 @@
 <br/>
 <img align="right" width="450" src="https://seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" alt="it's me" />
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddha-gawde&label=Profile%20views&color=0e75b6&style=flat" alt="profile-view" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashnat-kumar-aryan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-view" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shraddha-gawde.github.io/)
