@@ -1,7 +1,7 @@
-
 <img src="http://propulsive.in/assets/img/service-icon/dev.gif" alt="web-development" />
 <h1 align="center">Hi 👋, I'm Prashant Kumar Aryan</h1>
-<a href="https://leetcode.com/u/Prashant_Kumar_Aryan/" ><h1 align="center">Leetcode Profile</h1></a>(https://leetcode.com/u/Prashant_Kumar_Aryan/)
+<h1 align="center"><a href="https://leetcode.com/u/Prashant_Kumar_Aryan/" target="_blank">LeetCode Profile</a></h1>
+
 
 [<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=eb7a66&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;Node.js+Backend+Developer+⚡️;1200%2B+Hours+of+Coding+Experience+⚡️;500%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
 <hr>
