@@ -1,4 +1,3 @@
-<img src="http://propulsive.in/assets/img/service-icon/dev.gif" alt="web-development" />
 <h1 align="center">Hi 👋, I'm Prashant Kumar Aryan</h1>
 <h1 align="center"><a href="https://leetcode.com/u/Prashant_Kumar_Aryan/" target="_blank">LeetCode Profile</a></h1>
 
@@ -87,4 +86,4 @@
 
 </div>
 <br/><br/>
-
+<img src="http://propulsive.in/assets/img/service-icon/dev.gif" alt="web-development" />
