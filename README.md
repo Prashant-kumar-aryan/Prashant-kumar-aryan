@@ -79,12 +79,3 @@
 
 </div>
 <br/><br/>
-<p><img align="center" width="1500px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-kumar-aryan&theme=dark&show_icons=true&locale=en&layout=compact&card_width=495" alt="Prashant-kumar" /></p>
-
-<p>&nbsp;<img align="center" width="1500px" height="180px" src="https://github-readme-stats.vercel.app/api?username=Prashant-kumar-aryan&theme=dark&show_icons=true&locale=en&card_width=495" alt="Prashant-kumar-aryan"/></p>
-<br/>
-<p><img align="center" width="1500px" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-kumar-aryan&theme=dark&card_width=495" alt="Prashant-kumar-aryan" /></p>
-<h3>🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prashant-kumar-aryan&theme=radical&no-frame=false&no-bg=true&margin-w=4&align=center" alt="GitHub Profile Trophy">
-</p>
