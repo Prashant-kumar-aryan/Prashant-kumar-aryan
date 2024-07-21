@@ -87,3 +87,5 @@
 </div>
 <br/><br/>
 <img src="http://propulsive.in/assets/img/service-icon/dev.gif" alt="web-development" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-kumar-aryan&hide_progress=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Prashant-kumar-aryan)](https://git.io/streak-stats)
