@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Prashant Kumar Aryan</h1>
-<h1 align="center"><a href="https://leetcode.com/u/Prashant_Kumar_Aryan/" target="_blank">LeetCode Profile</a></h1>
 
 🌱 About myself
 
@@ -84,8 +83,12 @@
 </p>
 
 
+</div
+  <div>
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Prashant-kumar-aryan)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-kumar-aryan&hide_progress=true)
 </div>
 <br/><br/>
 <img src="http://propulsive.in/assets/img/service-icon/dev.gif" alt="web-development" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-kumar-aryan&hide_progress=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Prashant-kumar-aryan)](https://git.io/streak-stats)
+
