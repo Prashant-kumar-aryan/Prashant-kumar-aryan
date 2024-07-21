@@ -2,10 +2,18 @@
 <h1 align="center">Hi 👋, I'm Prashant Kumar Aryan</h1>
 <h1 align="center"><a href="https://leetcode.com/u/Prashant_Kumar_Aryan/" target="_blank">LeetCode Profile</a></h1>
 
+🌱 About myself
 
+✔️ I am Prashant Kumar Aryan, a passionate Software Developer and a CSE student from KIIT University.
 
-[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=eb7a66&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;Node.js+Backend+Developer+⚡️;1200%2B+Hours+of+Coding+Experience+⚡️;500%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
-<hr>
+✔️ My interests lie in development, and I've had the pleasure of contributing to various open-source organizations. Problem-solving is another arena I really enjoy and love to engage in.
+
+✔️ With solid experience in full-stack web development, I thrive on creating and enhancing web applications.
+
+✔️ I've actively make numerous mern stack project , which have enriched my skills and expanded my network.
+
+✔️ Let's connect and collaborate!
+
 
 <h3 align="center">Fast self-learner and result-oriented aspiring full stack web developer with a specialization MERN stack and DSA. A calm and focused problem solver</h3>
 <br/>
@@ -79,3 +87,5 @@
 
 </div>
 <br/><br/>
+[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=eb7a66&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;Node.js+Backend+Developer+⚡️;1200%2B+Hours+of+Coding+Experience+⚡️;500%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
+<hr>
