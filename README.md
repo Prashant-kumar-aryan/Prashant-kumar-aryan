@@ -4,7 +4,7 @@
 
 ✔️ I am Prashant Kumar Aryan, a passionate Software Developer and a CSE student from KIIT University.
 
-✔️ My interests lie in development, and I've had the pleasure of contributing to various open-source organizations. Problem-solving is another arena I really enjoy and love to engage in.
+✔️ My interests lie in development. Problem-solving is another arena I really enjoy and love to engage in.
 
 ✔️ With solid experience in full-stack web development, I thrive on creating and enhancing web applications.
 
